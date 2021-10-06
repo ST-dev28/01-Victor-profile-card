@@ -20,7 +20,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Here] (https://st-dev28.github.io/01-Victor-profile-card/)
-- Live Site URL: [Here]
+- Live Site URL: [Here] (https://www.frontendmentor.io/solutions/gaming-with-css-s-m0KyvDS)
 
 ### Built with
 
